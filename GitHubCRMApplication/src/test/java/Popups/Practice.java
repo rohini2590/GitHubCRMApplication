@@ -12,6 +12,9 @@ public class Practice {
 		System.out.println("fhfhfyugjgj");
 		System.out.println("ghfhfgjgdfdjh");
 		System.out.println("tsfgxhhjgjggfj");
+		System.out.println("fhfhf464yugjgj");
+		System.out.println("ghfhf64464gjgdfdjh");
+		System.out.println("tsfg5775xhhjgjggfj");
 		
 
 	}
